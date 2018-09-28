@@ -1,2 +1,3 @@
 ﻿Git is a version control system.this is prada
 Git is free software,this is a change
+Git has a mutable index called stage.
